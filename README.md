@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **kamalshanbedi@icloud.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

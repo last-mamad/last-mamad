@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=last-mamad" alt="last-mamad" /></a> </p>
 
-- 🔭 I’m currently working on **2002Hub Admin Dashboard**
+- 🔭 I’m currently working with **Shahed University**
 
 - 🌱 I’m currently learning **TypeScript , Next.js**
 

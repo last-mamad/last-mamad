@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=last-mamad&label=Profile%20views&color=0e75b6&style=flat" alt="last-mamad" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=last-mamad" alt="last-mamad" /></a> </p>
-
 - 🔭 I’m currently working with **Shahed University**
 
 - 🌱 I’m currently learning **TypeScript , Next.js**

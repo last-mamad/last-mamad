@@ -1,11 +1,8 @@
 ### <div align="center">I'm Mohammad, a full-time Front-End developer 👨‍💻 working remotely since 2023🚀</div>  
   
 
-- 🔭 I’m currently working with Shahed University  
-  
-
-- 🌱 I’m currently learning TypeScript , Next.js  
-  
+- 🔭 I’m currently working with Droplinked
+- 
 
 - 💬 Ask me about React, vanilla JavaScript and anything that usable in Front-End of a website  
   

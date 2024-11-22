@@ -2,7 +2,7 @@
   
 
 - 🔭 I’m currently working with Droplinked
-- 
+
 
 - 💬 Ask me about React, vanilla JavaScript and anything that usable in Front-End of a website  
   
